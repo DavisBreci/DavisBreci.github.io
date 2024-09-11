@@ -1,3 +1,9 @@
+body {
+    background-color: lightgreen
+}
+h1 {
+    font-size: 90px
+}
 p {
     text-align: center; color: red;
 }
