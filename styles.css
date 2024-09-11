@@ -1,8 +1,9 @@
 body {
-    background-color: lightgreen
+    background-color: lightgreen;
+    font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-    font-size: 90px
+    font-size: 90px;
 }
 p {
     text-align: center; color: red;
