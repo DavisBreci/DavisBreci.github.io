@@ -18,3 +18,12 @@ p {
 .about {
     text-align: right; color: orchid;
 }
+.skills {
+    font-size: x-large; color: black;
+}
+.projects {
+    font-size: x-small; background-color: darkred; color: goldenrod
+}
+.contact {
+    font-size: 200px; text-align: center; color: black;
+}
