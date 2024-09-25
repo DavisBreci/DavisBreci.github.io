@@ -16,14 +16,14 @@ p {
     text-align: center; color: green;
 }
 .about {
-    text-align: right; color: orchid;
+    text-align: right; color: darkred;
 }
 .skills {
-    font-size: x-large; color: coral;
+    font-size: x-large; color: darkred;
 }
 .projects {
-    font-size: x-large; color: goldenrod;
+    font-size: x-large; color: darkred;
 }
 .contact {
-    font-size: 200px; text-align: center; color: black;
+    font-size: large; text-align: center; color: black;
 }
