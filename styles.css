@@ -16,7 +16,7 @@ p {
     text-align: center; color: green;
 }
 .about {
-    text-align: right; color: darkred;
+    text-align: left; font-size: x-large; color: darkred;
 }
 .skills {
     font-size: x-large; color: darkred;
