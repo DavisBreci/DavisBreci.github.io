@@ -54,3 +54,8 @@ a {
     text-align: center;
     margin: 15px;
 }
+.project h3{
+    text-align: center;
+    color: darkred;
+    font-size: xx-large;
+}
