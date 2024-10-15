@@ -1,5 +1,5 @@
 body {
-    background-color: #90ee90;
+    background-color: #90d8ee;
     font-family: Helvetica, sans-serif;
 }
 h1 {
@@ -8,9 +8,6 @@ h1 {
 }
 p {
     text-align: left; color: darkred;
-}
-h4{
-    font-size: 0px;color: #90ee90;
 }
 #para1 {
     text-align: center; color: blue;
@@ -29,11 +26,11 @@ h4{
     flex-wrap:wrap;
 }
 .project{
-    width: 30%;
+    width: 40%;
     margin: 10px;
     padding: 20px 10px;
     background: white;
-    border-radius: 25%
+    border-radius: 3%
 }
 .contact {
     font-size: large; text-align: center; color: black;
