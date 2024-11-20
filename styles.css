@@ -35,7 +35,10 @@ p {
     line-height: 125%;
 }
 .skills {
-    font-size: x-large; color: darkred;
+    font-size: x-large;
+}
+.skills p{
+    color: blue;
 }
 .projects {
     display:flex;
